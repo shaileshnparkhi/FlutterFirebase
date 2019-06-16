@@ -1,10 +1,9 @@
-# easywash
+# FirebaseChat
 
-App for Laundry
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Flutter Firebase chat application.
 
 A few resources to get you started if this is your first Flutter project:
 
