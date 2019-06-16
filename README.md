@@ -1,4 +1,4 @@
-# FirebaseChat
+# FirebaseFlutterChat
 
 
 ## Getting Started
