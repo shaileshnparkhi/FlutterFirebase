@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923438177750",
+    "firebase_url": "https://easyclean-bd6be.firebaseio.com",
+    "project_id": "easyclean-bd6be",
+    "storage_bucket": "easyclean-bd6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923438177750:android:72b785233239a6df",
+        "android_client_info": {
+          "package_name": "easywash.com.easywash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923438177750-cpqo1qu9hue7qu2up4phc3hrnlav9ema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgOotX4Odsk1v-cjPoTw8dLn1LnqDw_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923438177750-cpqo1qu9hue7qu2up4phc3hrnlav9ema.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
